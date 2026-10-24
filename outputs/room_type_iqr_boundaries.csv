@@ -1,0 +1,4 @@
+room_type,Q1,Q3,IQR,Lower Bound,Upper Bound
+Entire home/apt,120.0,229.0,109.0,-43.5,392.5
+Private room,50.0,95.0,45.0,-17.5,162.5
+Shared room,33.0,75.0,42.0,-30.0,138.0
